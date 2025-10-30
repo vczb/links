@@ -1,13 +1,28 @@
 {
   "profile": {
     "name": "Vinicius Zucatti",
-    "bio": "Frontend • SEO • Maker",
-    "avatar": "images/avatar.jpg"
+    "bio": "Metamorfose ambulante",
+    "avatar": "https://vczb.github.io/assets/logo.jpg"
   },
   "links": [
     {
-      "label": "GitHub",
+      "label": "Malabares",
+      "url": "https://www.youtube.com/watch?v=8v0CGts5kR8",
+      "image": ""
+    },
+    {
+      "label": "Blog",
+      "url": "https://vczb.github.io/",
+      "image": ""
+    },
+    {
+      "label": "Software",
       "url": "https://github.com/vczb",
+      "image": ""
+    },
+    {
+      "label": "NFT Art",
+      "url": "https://objkt.com/users/tz1Uz4Gxmtx4P1Srvo6sz4FqzgGH8p9XNRnU/collections/created",
       "image": ""
     }
   ],
