@@ -2,7 +2,7 @@
   "profile": {
     "name": "Vinicius Zucatti",
     "bio": "Metamorfose ambulante",
-    "avatar": "https://vczb.github.io/assets/logo.jpg"
+    "avatar": ""
   },
   "links": [
     {
@@ -21,10 +21,15 @@
       "image": ""
     },
     {
+      "label": "Design",
+      "url": "https://www.behance.net/vczb",
+      "image": ""
+    },
+    {
       "label": "NFT Art",
       "url": "https://objkt.com/users/tz1Uz4Gxmtx4P1Srvo6sz4FqzgGH8p9XNRnU/collections/created",
       "image": ""
     }
   ],
-  "footer": "© 2025 Vinicius Zucatti"
+  "footer": ""
 }
