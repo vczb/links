@@ -1,0 +1,15 @@
+{
+  "profile": {
+    "name": "Vinicius Zucatti",
+    "bio": "Frontend • SEO • Maker",
+    "avatar": "images/avatar.jpg"
+  },
+  "links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/vczb",
+      "image": ""
+    }
+  ],
+  "footer": "© 2025 Vinicius Zucatti"
+}
