@@ -5,11 +5,11 @@
 
   document.getElementById('name').textContent = cfg.profile.name;
   document.getElementById('bio').textContent = cfg.profile.bio;
-  const avatar = document.getElementById('avatar');
-  if (cfg.profile.avatar) {
-    avatar.src = cfg.profile.avatar;
-    avatar.style.display = 'inline-block';
-  }
+  // const avatar = document.getElementById('avatar');
+  // if (cfg.profile.avatar) {
+  //   avatar.src = cfg.profile.avatar;
+  //   avatar.style.display = 'inline-block';
+  // }
 
   const linksEl = document.getElementById('links');
   cfg.links.forEach((l) => {
